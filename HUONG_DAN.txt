@@ -1,0 +1,4 @@
+Giải nén. Upload index.html và thư mục assets lên GitHub. Settings > Pages > main > / (root) > Save.
+Tên khách: ?name=Mai%20Anh&lang=vi.
+Bấm mở thiệp để xem chim thả cuộn giấy và nghe nhạc.
+Bản đồ 360° cần kết nối Internet; có link mở tab mới.
